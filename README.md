@@ -24,7 +24,7 @@ I'm currently building my skillset in:
 ## 🚧 Featured Project
 ### **Couples Resort Build (Final Integrated Project)**
 A comprehensive school project where I'm applying my design and development skills.  
-🔗 **Project Repo:** [underhill_crystal_fip](https://github.com/cunderhill17/underhill_crystal_fip)
+🔗 **Project Repo:** [Couples.Resort.FIP](https://github.com/cunderhill17/underhill_crystal_fip)
 
 ---
 
